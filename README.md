@@ -1,23 +1,16 @@
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 Some of my Python packages which can be installed with [pip](https://pip.pypa.io/en/stable/) package manager:
 
-https://github.com/DovaX/dogui
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=dogui)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=pgwidget)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=multiselect)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=multinherit)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=dbhydra)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=doclick)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=keepvariable)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=fastpypi)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/DovaX/pgwidget
-
-https://github.com/DovaX/multiselect
-
-https://github.com/DovaX/multinherit
-
-https://github.com/DovaX/dbhydra
-
-https://github.com/DovaX/doclick
-
-https://github.com/DovaX/keepvariable
-
-https://github.com/DovaX/fastpypi
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
