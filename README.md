@@ -1,6 +1,7 @@
 ### Hello world! 
 Hi, welcome to my profile! I am passionate developer with educational background in Math, Physics, Economics, and Finance.
 I started coding early in childhood and touched upon a lot of programming languages, however, several years ago I fell in love with Python which soon became my #1 language due to its simplicity and fast development cycles.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/DovaX)
 
 Below you can see some of my Python packages which can be installed with [pip](https://pip.pypa.io/en/stable/) package manager:
