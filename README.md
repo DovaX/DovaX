@@ -1,17 +1,21 @@
+
+
 ### Hello world! 
 Hi, welcome to my profile! I am a passionate developer with educational background in Math, Physics, Economics, and Finance.
 I started coding very early in childhood and touched upon a lot of programming languages, however, several years ago I fell in love with Python which became very fast my #1 language mainly due to its simplicity and fast development cycles.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/DovaX)
-<a href="https://github.com/dimkagithub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovax" width="500">
+<a href="https://github.com/DovaX">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DovaX" width="400">
 </a>
+
 
 Currently I am working on a tool called [Forloop.ai](https://forloop.ai) which aims to make data scientists more productive by automating more and more of their routine data tasks.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=forloopai&repo=forloop)](https://github.com/ForloopAI/forloop)
 
 I also love to contribute to open-source community with packages that make a developer life little bit easier. Below you can see some of my open source Python packages which can be installed very easily with [pip](https://pip.pypa.io/en/stable/) package manager:
+
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=artificial-neural-networks-in-option-pricing)](https://github.com/DovaX/artificial-neural-networks-in-option-pricing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=spatial-agent-based-models-of-common-pool-resources)](https://github.com/DovaX/spatial-agent-based-models-of-common-pool-resources)-->
