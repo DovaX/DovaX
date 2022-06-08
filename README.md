@@ -6,7 +6,7 @@ I started coding very early in childhood and touched upon a lot of programming l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/DovaX)
 <a href="https://github.com/DovaX">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DovaX" width="400">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DovaX" width="450">
 </a>
 
 
