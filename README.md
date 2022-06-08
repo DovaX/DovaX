@@ -3,6 +3,9 @@ Hi, welcome to my profile! I am a passionate developer with educational backgrou
 I started coding very early in childhood and touched upon a lot of programming languages, however, several years ago I fell in love with Python which became very fast my #1 language mainly due to its simplicity and fast development cycles.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovax&layout=compact)](https://github.com/DovaX)
+<a href="https://github.com/dimkagithub">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovax" width="500">
+</a>
 
 Currently I am working on a tool called [Forloop.ai](https://forloop.ai) which aims to make data scientists more productive by automating more and more of their routine data tasks.
 
@@ -22,6 +25,11 @@ I also love to contribute to open-source community with packages that make a dev
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dovax&repo=multinherit)](https://github.com/DovaX/multinherit)
 
 That's it! I hope you enjoy content on my profile and I will be very happy if you follow me or give a star to one of my packages!
+
+<p align="center">
+  
+</p>
+
 
 <!--
 **DovaX/DovaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
